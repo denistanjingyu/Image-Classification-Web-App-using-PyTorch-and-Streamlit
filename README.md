@@ -7,12 +7,19 @@ A simple web demo with minimal framework using PyTorch and Streamlit to showcase
 
 ## Steps to Use the Application
 - Clone the repository onto your own local machine
+![image](https://user-images.githubusercontent.com/45563371/102073488-58953500-3e3e-11eb-9581-e16823f808fd.png)
 - Open command prompt/terminal
+![image](https://user-images.githubusercontent.com/45563371/102073585-7b274e00-3e3e-11eb-8656-a67df96b995a.png)
 - Run pip install -r requirements.txt
+![image](https://user-images.githubusercontent.com/45563371/102073729-af9b0a00-3e3e-11eb-95f4-d02d01b6fa76.png)
 - Type ‘streamlit run steamlit_ui.py’ in the command prompt/terminal
 - A localhost address should automatically open in your web browser. If not, copy the local URL from the command prompt/terminal into your web browser.
+![image](https://user-images.githubusercontent.com/45563371/102073842-dbb68b00-3e3e-11eb-8e7e-0f67e0021b38.png)
 - Click 'Browse files' and upload an image file in jpg format
+![image](https://user-images.githubusercontent.com/45563371/102073949-056fb200-3e3f-11eb-9017-27bf13d3e88d.png)
+![image](https://user-images.githubusercontent.com/45563371/102074070-289a6180-3e3f-11eb-8876-75ea60068ff2.png)
 - Now just wait for the results. 5 predictions should be outputted from highest probability to lowest probability.
+![image](https://user-images.githubusercontent.com/45563371/102074131-44056c80-3e3f-11eb-8d7d-093e6a5eed1d.png)
 
 ## Model Used
 ### ResNet-101
