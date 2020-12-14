@@ -4,10 +4,10 @@
 
 Table of Contents :bookmark_tabs:
 =================
-- [Overview](#scope-of-project)
-- [Steps to Use the Application](#abstract-of-research-paper)
-- [Model Used](#research-poster)
-- [Installation](#code-and-resources-used)
+- [Overview](#overview)
+- [Steps to Use the Application](#steps-to-Use-the-application)
+- [Model Used](#model-used)
+- [Installation](#installation)
 - [Code and Resources Used](#code-and-resources-used)
 
 ## Overview
