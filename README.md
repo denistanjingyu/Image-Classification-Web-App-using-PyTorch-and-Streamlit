@@ -6,7 +6,13 @@
 A simple web demo with minimal framework using PyTorch and Streamlit to showcase an image classification model
 
 ## Steps to use the application
-
+- Clone the repository onto your own local machine
+- Open command prompt/terminal
+- Run pip install -r requirements.txt
+- Type ‘streamlit run steamlit_ui.py’ in the command prompt/terminal
+- A localhost address should automatically open in your web browser. If not, copy the local URL from the command prompt/terminal into your web browser.
+- Click 'Browse files' and upload an image file in jpg format
+- Now just wait for the results. 5 predictions should be outputted from highest probability to lowest probability.
 
 ## Model Used
 ### ResNet-101
