@@ -22,3 +22,7 @@ ResNet-101 is a convolutional neural network that is 101 layers deep. You can lo
 ```
 pip install -r requirements.txt
 ```
+
+## Code and Resources Used
+- Python: Version 3.7.4
+- Packages: PIL, torchvision, torch, streamlit
