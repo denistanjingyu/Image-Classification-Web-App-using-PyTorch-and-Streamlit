@@ -2,6 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/45563371/102043522-97f85d00-3e0f-11eb-924e-e98b46fa074a.png)
 
+Table of Contents :bookmark_tabs:
+=================
+- [Overview](#scope-of-project)
+- [Steps to Use the Application](#abstract-of-research-paper)
+- [Model Used](#research-poster)
+- [Installation](#code-and-resources-used)
+- [Code and Resources Used](#code-and-resources-used)
+
 ## Overview
 A simple web demo with minimal framework using PyTorch and Streamlit to showcase an image classification model
 
