@@ -5,7 +5,7 @@
 ## Overview
 A simple web demo with minimal framework using PyTorch and Streamlit to showcase an image classification model
 
-## Steps to use the application
+## Steps to Use the Application
 - Clone the repository onto your own local machine
 - Open command prompt/terminal
 - Run pip install -r requirements.txt
